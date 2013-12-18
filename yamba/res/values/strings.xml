@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yamba</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonUpdate">Update</string>
+    <string name="titleStatus">Status</string>
+    <string name="hintText">warring</string>
+
+</resources>
